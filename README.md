@@ -1,6 +1,6 @@
 ## WebSite Live Link 
-firebase liveLink : https://b8a11-offline-service.web.app/
-netlify liveLink  : https://celadon-creponne-8a0dbe.netlify.app/
+# firebase liveLink : https://b8a11-offline-service.web.app/
+# netlify liveLink  : https://celadon-creponne-8a0dbe.netlify.app/
 
 
 ##
@@ -16,7 +16,6 @@ netlify liveLink  : https://celadon-creponne-8a0dbe.netlify.app/
 - MongoDB
 - Express Js
 - Node Js
-- ## Dependencies
 - **[aos](https://www.npmjs.com/package/aos)**: Animate on Scroll library.
 - **[firebase](https://www.npmjs.com/package/firebase)**: Firebase SDK for JavaScript.
 - **[flowbite](https://www.npmjs.com/package/flowbite)**: A utility-first CSS framework.
